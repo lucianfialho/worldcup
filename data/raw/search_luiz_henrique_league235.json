@@ -1,0 +1,184 @@
+{
+  "get": "players",
+  "parameters": {
+    "search": "Luiz Henrique",
+    "league": "235"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 265785,
+        "name": "Luiz Henrique",
+        "firstname": "Luiz Henrique André",
+        "lastname": "Rosa da Silva",
+        "age": 24,
+        "birth": {
+          "date": "2001-01-02",
+          "place": "Petrópolis",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "181",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/265785.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 596,
+            "name": "Zenit",
+            "logo": "https://media.api-sports.io/football/teams/596.png"
+          },
+          "league": {
+            "id": 235,
+            "name": "Premier League",
+            "country": "Russia",
+            "logo": "https://media.api-sports.io/football/leagues/235.png",
+            "flag": "https://media.api-sports.io/flags/ru.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 11,
+            "minutes": 960,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.536363",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 17,
+            "on": 8
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 350,
+            "key": 11,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 1,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 181,
+            "won": 97
+          },
+          "dribbles": {
+            "attempts": 68,
+            "success": 38,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 30,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 596,
+            "name": "Zenit",
+            "logo": "https://media.api-sports.io/football/teams/596.png"
+          },
+          "league": {
+            "id": 235,
+            "name": "Premier League",
+            "country": "Russia",
+            "logo": "https://media.api-sports.io/football/leagues/235.png",
+            "flag": "https://media.api-sports.io/flags/ru.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 24,
+            "minutes": 2035,
+            "number": 11,
+            "position": "Midfielder",
+            "rating": "6.99",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 17,
+            "bench": 4
+          },
+          "shots": {
+            "total": 35,
+            "on": 15
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 672,
+            "key": 26,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 43,
+            "blocks": null,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 380,
+            "won": 179
+          },
+          "dribbles": {
+            "attempts": 96,
+            "success": 47,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 57,
+            "committed": 34
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 2,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

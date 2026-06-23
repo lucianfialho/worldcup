@@ -1,0 +1,110 @@
+{
+  "get": "players",
+  "parameters": {
+    "search": "Endrick",
+    "league": "61"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 377122,
+        "name": "Endrick",
+        "firstname": "Endrick Felipe",
+        "lastname": "Moreira de Sousa",
+        "age": 19,
+        "birth": {
+          "date": "2006-07-21",
+          "place": "Brasília",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "173",
+        "weight": "66",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/377122.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 14,
+            "minutes": 1222,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "7.09",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 9,
+            "bench": 2
+          },
+          "shots": {
+            "total": 41,
+            "on": 26
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 7,
+            "saves": null
+          },
+          "passes": {
+            "total": 302,
+            "key": 30,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 168,
+            "won": 73
+          },
+          "dribbles": {
+            "attempts": 75,
+            "success": 36,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

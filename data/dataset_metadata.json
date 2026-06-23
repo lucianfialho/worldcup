@@ -1,0 +1,22 @@
+{
+  "descricao": "Dataset para analise de substituicao de Raphinha na Selecao Brasileira",
+  "data_criacao": "2026-06-22",
+  "fonte_principal": "SofaScore - coleta manual via extensao Chrome em 22/06/2026",
+  "fontes": {
+    "Raphinha": "SofaScore - La Liga 2025/2026",
+    "Luiz Henrique": "SofaScore + FBref - Russian Premier League 2025/2026",
+    "Rayan": "SofaScore - Premier League 2025/2026",
+    "Endrick": "SofaScore - Ligue 1 2025/2026",
+    "Copa_2026": "FBref - World Cup 2026"
+  },
+  "observacoes": [
+    "Fonte unificada SofaScore garante consistencia de modelo para xG/xA.",
+    "xG e xA indisponiveis para Russian Premier League (RFPL sem parceria Opta/StatsBomb).",
+    "Ajuste tatico revisado com base nos mapas de calor do SofaScore em 22/06/2026.",
+    "Luiz Henrique: heatmap bilateral, baixa para construcao, nao eh ponta inversa.",
+    "Rayan: heatmap concentrado no corredor direito, ponta classica (nao invertida).",
+    "Endrick: heatmap central, perfil de centroavante, nao de ponta direita.",
+    "Raphinha: heatmap centro-direito do terco ofensivo, ponta inversa classica.",
+    "Rating avg ainda baseado em FotMob - pendente atualizacao para SofaScore."
+  ]
+}

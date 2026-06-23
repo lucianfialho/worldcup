@@ -1,0 +1,332 @@
+{
+  "get": "players",
+  "parameters": {
+    "search": "Raphinha",
+    "league": "140"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 1496,
+        "name": "Raphinha",
+        "firstname": "Raphael",
+        "lastname": "Dias Belloli",
+        "age": 29,
+        "birth": {
+          "date": "1996-12-14",
+          "place": "Porto Alegre",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "176",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1496.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 34,
+            "minutes": 2844,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.802777",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 87,
+            "on": 43
+          },
+          "goals": {
+            "total": 18,
+            "conceded": 0,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 1249,
+            "key": 91,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 34,
+            "blocks": 2,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 244,
+            "won": 136
+          },
+          "dribbles": {
+            "attempts": 100,
+            "success": 55,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 37,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 25,
+            "minutes": 1379,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.282142",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 47,
+            "on": 22
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 587,
+            "key": 41,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": 1,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 135,
+            "won": 72
+          },
+          "dribbles": {
+            "attempts": 43,
+            "success": 24,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": null,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2022
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 31,
+            "minutes": 2083,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.275000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 58,
+            "on": 25
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 7,
+            "saves": null
+          },
+          "passes": {
+            "total": 1043,
+            "key": 58,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 29,
+            "blocks": 1,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 251,
+            "won": 125
+          },
+          "dribbles": {
+            "attempts": 97,
+            "success": 45,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 37,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 18,
+            "minutes": 1388,
+            "number": 11,
+            "position": "Midfielder",
+            "rating": "7.55",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 14,
+            "bench": 6
+          },
+          "shots": {
+            "total": 49,
+            "on": 24
+          },
+          "goals": {
+            "total": 13,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 639,
+            "key": 43,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 1,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 109,
+            "won": 49
+          },
+          "dribbles": {
+            "attempts": 41,
+            "success": 21,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 3,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}
